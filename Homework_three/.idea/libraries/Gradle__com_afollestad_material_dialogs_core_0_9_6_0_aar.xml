@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad.material-dialogs:core:0.9.6.0@aar">
+    <CLASSES>
+      <root url="jar://D:/Program Files (x86)/offline-android-gradle-plugin-preview/android-gradle-plugin-3.5.0-beta01/caches/transforms-2/files-2.1/4e09584f3c978a460bc76afba1c3671a/core-0.9.6.0/jars/classes.jar!/" />
+      <root url="file://D:/Program Files (x86)/offline-android-gradle-plugin-preview/android-gradle-plugin-3.5.0-beta01/caches/transforms-2/files-2.1/4e09584f3c978a460bc76afba1c3671a/core-0.9.6.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
